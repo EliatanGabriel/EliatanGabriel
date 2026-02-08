@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Eliatan Gabriel
 
 🎓 Estudante de **Ciência da Computação**  
-💻 Desenvolvedor em formação  
-🚀 Aprendendo desenvolvimento web passo a passo  
+💻 Desenvolvedor em formação 
 
 <div> 
   <a href="https://www.instagram.com/_.eliatanzsx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,10 +15,9 @@
 ---
 
 ##  Sobre mim
-- 📚 Atualmente estudando **HTML e CSS**
+- 📚 Atualmente estudando **Back-End**
 - 🧠 Aprendendo lógica e fundamentos da computação
 - 🎯 Objetivo: criar uma base sólida e evoluir como desenvolvedor
--  ✝ Fé, disciplina e constância fazem parte da minha jornada  
 
 ---
 
@@ -34,8 +32,6 @@
 
 </div>
   
-
-*(Novas tecnologias serão adicionadas conforme a evolução)*
 
 ---
 
