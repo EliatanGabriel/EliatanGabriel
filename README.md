@@ -13,7 +13,6 @@
 - 💼 Estagiário em TI (Dados e Automação)
 - 🧠 Foco em Back-End e fundamentos sólidos
 - 📊 Experiência com Python, SQL, Excel e Power BI
-- 🎯 Objetivo: Desenvolver sistemas eficientes e escaláveis
 
 ---
 
@@ -35,26 +34,6 @@
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=github_dark" />
 </p>
-
----
-
-## 📌 Projetos em Destaque
-
-🔹 Sistema de Controle Financeiro em Python  
-🔹 Dashboard de Análise de Dados (Power BI)  
-🔹 API simples com Flask  
-🔹 Página responsiva com HTML e CSS  
-
-*(Em constante evolução)*
-
----
-
-## 📚 Atualmente Estudando
-
-- Estruturas de Dados
-- APIs REST
-- Clean Code
-- JavaScript Moderno
 
 ---
 
