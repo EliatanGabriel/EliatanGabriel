@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,vscode" />
 </p>
 
 ---
@@ -40,10 +40,10 @@
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEULINK" target="_blank">
+  <a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/SEUINSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/_.eliatanzsx/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
