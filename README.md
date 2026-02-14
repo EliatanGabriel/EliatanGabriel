@@ -1,54 +1,74 @@
-# 👋 Olá, eu sou o Eliatan Gabriel
+<h1 align="center">Olá, eu sou Eliatan Gabriel 👋</h1>
 
-🎓 Estudante de **Ciência da Computação**  
-💻 Desenvolvedor em formação 
-
-<div> 
-  <a href="https://www.instagram.com/_.eliatanzsx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
-  
-</div>
+<p align="center">
+  Estudante de Ciência da Computação | Foco em Back-End <br>
+  Construindo soluções com lógica, dados e eficiência
+</p>
 
 ---
 
-##  Sobre mim
-- 📚 Atualmente estudando **Back-End**
-- 🧠 Aprendendo lógica e fundamentos da computação
-- 🎯 Objetivo: criar uma base sólida e evoluir como desenvolvedor
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação
+- 💼 Estagiário em TI (Dados e Automação)
+- 🧠 Foco em Back-End e fundamentos sólidos
+- 📊 Experiência com Python, SQL, Excel e Power BI
+- 🎯 Objetivo: Desenvolver sistemas eficientes e escaláveis
 
 ---
 
-##  Tecnologias em estudo
+## 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
-    
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,mysql" />
+</p>
+
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Analytics
 
-## 📊 Estatísticas do GitHub
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=github_dark" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=github_dark" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliatangabriel
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliatangabriel
-&layout=compact&langs_count=7&theme=tokyonight"/>
+## 📌 Projetos em Destaque
 
-</div>
+🔹 Sistema de Controle Financeiro em Python  
+🔹 Dashboard de Análise de Dados (Power BI)  
+🔹 API simples com Flask  
+🔹 Página responsiva com HTML e CSS  
 
-<img src="https://streak-stats.demolab.com?user=eliatangabriel
-&theme=tokyonight&hide_border=false"/>
+*(Em constante evolução)*
+
+---
+
+## 📚 Atualmente Estudando
+
+- Estruturas de Dados
+- APIs REST
+- Clean Code
+- JavaScript Moderno
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEULINK" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/SEUINSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
 
 
 
