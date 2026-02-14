@@ -32,22 +32,6 @@
 </div>
   
 
----
-
-## 📂 Projetos
-Aqui você encontrará:
-- Projetos simples
-
-🚧 Perfil em construção — assim como eu 🚀
-
----
-
-## 📈 Mentalidade
-> "Constância vence motivação."
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliatanGabriel&show_icons=true&theme=tokyonight&include_all_commit=true&locale=pt-Br)
 
 
   
