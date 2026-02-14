@@ -22,9 +22,6 @@
 ---
 
 ##  Tecnologias em estudo
--  HTML5  
--  CSS3
--  PYTHON
 
 <div style="display: inline_block"><br>
     
@@ -49,6 +46,8 @@ Aqui você encontrará:
 > "Constância vence motivação."
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliatanGabriel&show_icons=true&theme=tokyonight&include_all_commit=true&locale=pt-Br)
 
 
   
