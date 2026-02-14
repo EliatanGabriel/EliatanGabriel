@@ -35,20 +35,21 @@
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 GitHub Analytics
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eliatangabriel
-&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliatangabriel
-&layout=compact&theme=github_dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=eliatangabriel
-&theme=github_dark" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliatangabriel
+&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliatangabriel
+&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<img src="https://streak-stats.demolab.com?user=eliatangabriel
+&theme=tokyonight&hide_border=false"/>
+
 
 
 
