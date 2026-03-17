@@ -10,9 +10,9 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação
-- 💼 Estagiário em TI (Dados e Automação)
+- 💼 Estagiário em TI 
 - 🧠 Foco em Back-End e fundamentos sólidos
-- 📊 Experiência com Python, SQL, Excel e Power BI
+- 📊 Experiência com Python, Excel 
 
 ---
 
