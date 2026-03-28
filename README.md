@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,github,vscode,ubuntu,azure" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,github,vscode,ubuntu,azure,notion" />
 </p>
 
 ---
