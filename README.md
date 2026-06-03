@@ -24,14 +24,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=github_dark" />
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="center">
