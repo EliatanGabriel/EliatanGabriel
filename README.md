@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,ubuntu,azure,jira,trello" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,ubuntu,azure,atlassian" />
 </p>
 
 <br>
