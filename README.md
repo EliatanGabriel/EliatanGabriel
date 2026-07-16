@@ -1,22 +1,21 @@
-<h1 align="center">Olá, eu sou Eliatan Gabriel 👋</h1>
+<h1 align="center">Olá, eu sou Eliatan Gabriel 💻</h1>
 <p align="center">
   Estudante de Ciência da Computação | Analista de QA <br>
-  Construindo soluções com lógica, dados e eficiência
 </p>
 
 <br>
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Ciência da Computação
-- 💼 Atuo como **Analista de QA** no projeto **FreeFlex 2.0**, testando funcionalidades, validando fluxos e reportando bugs
+- 💼 Atuo como **Analista de QA** no projeto **FreeFlex**, testando funcionalidades, validando fluxos e reportando bugs
 - 🧠 Foco em qualidade de software, testes estruturados e atenção a detalhes
-- 📊 Experiência com Python, Excel
+- 📊 Experiência com Python, Excel, QA.
 
 <br>
 
 ## 🛠️ Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,ubuntu,azure,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,ubuntu,azure,notion,QA" />
 </p>
 
 <br>
