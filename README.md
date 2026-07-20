@@ -1,38 +1,116 @@
-<h1 align="center">Olá, eu sou Eliatan Gabriel 💻</h1>
+<h1 align="center">Olá! Eu sou Eliatan Gabriel 👋</h1>
+
+<h3 align="center">
+💻 Estudante de Ciência da Computação • QA Analyst • Java Backend Developer in Progress
+</h3>
+
 <p align="center">
-  Estudante de Ciência da Computação | Analista de QA <br>
+Apaixonado por desenvolvimento de software, qualidade, automação de testes e construção de soluções que geram valor.
 </p>
 
-<br>
+---
 
-## 🚀 Sobre mim
-- 🎓 Estudante de Ciência da Computação
-- 💼 Atuo como **Analista de QA** no projeto **FreeFlex**, testando funcionalidades, validando fluxos e reportando bugs
-- 🧠 Foco em qualidade de software, testes estruturados e atenção a detalhes
-- 📊 Experiência com Python, Excel, QA.
+# 🚀 Sobre mim
 
-<br>
+🎓 Estudante de Ciência da Computação
+💼 Atualmente atuo como **Analista de QA**, realizando testes funcionais, validação de requisitos, identificação de bugs e garantia da qualidade de aplicações web.
+☕ Atualmente estou direcionando minha carreira para o **Desenvolvimento Backend com Java**, enquanto aprofundo conhecimentos em automação de testes.
+🎯 Meu objetivo é me tornar um desenvolvedor Backend especializado em Java, criando aplicações escaláveis, seguras e de alta qualidade.
 
-## 🛠️ Tecnologias
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode,ubuntu,azure,atlassian" />
+---
+
+# 📚 Atualmente estudando
+
+- ☕ Java
+- 🌐 JavaScript (ES6+)
+- 🎭 Playwright
+- 🌱 Spring Boot
+- 🧪 Testes Automatizados
+- 🇺🇸 Inglês para Tecnologia
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
 </p>
 
-<br>
+## ⚙️ Ferramentas
 
-## 📌 Projetos em destaque
-- **[AC Consultoria de RH](https://github.com/EliatanGabriel/AC-Consultoria-de-RH)** — site institucional para cliente real
-- **[Portfólio](https://github.com/EliatanGabriel/Portifolio)** — meu portfólio pessoal
-- **[TaskFlow](https://github.com/EliatanGabriel/TaskFlow)** — projeto ativo em desenvolvimento
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,azure" />
+</p>
 
-<br>
+## 🧪 QA & Produtividade
 
-## 🌐 Conecte-se comigo
+- Playwright
+- Jira
+- Trello
+- Excel
+- Testes Funcionais
+- Validação de Requisitos
+- Reporte de Bugs
+
+---
+
+# 📂 Projetos
+
+### 🏢 AC Consultoria de RH
+Site institucional desenvolvido para uma empresa real, focado em apresentar a empresa e permitir o envio de currículos.
+
+🔗 https://github.com/EliatanGabriel/AC-Consultoria-de-RH
+
+---
+
+### 📋 TaskFlow
+Sistema de gerenciamento de tarefas desenvolvido para praticar desenvolvimento web, organização de projetos e boas práticas de programação.
+
+🔗 https://github.com/EliatanGabriel/TaskFlow
+
+---
+
+### 🌐 Portfólio
+Meu portfólio profissional reunindo projetos, habilidades e trajetória na área de tecnologia.
+
+🔗 https://github.com/EliatanGabriel/Portifolio
+
+---
+
+# 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/_.eliatanzsx/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EliatanGabriel&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliatanGabriel&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Objetivos
+
+✔ Tornar-me Desenvolvedor Backend Java
+✔ Especializar-me em Spring Boot
+✔ Dominar Testes Automatizados
+✔ Contribuir para projetos Open Source
+✔ Construir soluções escaláveis e bem arquitetadas
+
+---
+
+# 🌎 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_.eliatanzsx/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
