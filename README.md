@@ -1,12 +1,8 @@
-<h1 align="center">Olá! Eu sou Eliatan Gabriel 👋</h1>
+<h1 align="center"> Olá! Eu sou Eliatan Gabriel </h1>
 
 <h3 align="center">
 💻 Estudante de Ciência da Computação • QA Analyst • Java Backend Developer in Progress
 </h3>
-
-<p align="center">
-Apaixonado por desenvolvimento de software, qualidade, automação de testes e construção de soluções que geram valor.
-</p>
 
 ---
 
@@ -35,13 +31,13 @@ Apaixonado por desenvolvimento de software, qualidade, automação de testes e c
 ## 💻 Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java" />
 </p>
 
 ## ⚙️ Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,azure,playwright,trello,jira" />
 </p>
 
 ## 🧪 QA & Produtividade
@@ -85,16 +81,6 @@ https://github.com/EliatanGabriel/Portif-lio
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliatanGabriel&theme=tokyo-night" />
 </p>
-
----
-
-# 🎯 Objetivos
-
-✔ Tornar-me Desenvolvedor Backend Java
-✔ Especializar-me em Spring Boot
-✔ Dominar Testes Automatizados
-✔ Contribuir para projetos Open Source
-✔ Construir soluções escaláveis e bem arquitetadas
 
 ---
 
