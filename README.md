@@ -75,7 +75,7 @@ Sistema de gerenciamento de tarefas desenvolvido para praticar desenvolvimento w
 ### 🌐 Portfólio
 Meu portfólio profissional reunindo projetos, habilidades e trajetória na área de tecnologia.
 
-🔗 https://github.com/EliatanGabriel/Portifolio
+https://github.com/EliatanGabriel/Portif-lio
 
 ---
 
