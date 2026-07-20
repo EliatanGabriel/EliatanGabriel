@@ -58,6 +58,7 @@
 Site institucional desenvolvido para uma empresa real, focado em apresentar a empresa e permitir o envio de currículos.
 
 GitHub: https://github.com/EliatanGabriel/AC-Consutoria-de-RH
+<br>
 Site: https://ac-consutoria-de-rh.vercel.app/https://ac-consutoria-de-rh.vercel.app/
 
 ---
@@ -84,22 +85,12 @@ https://github.com/EliatanGabriel/Portif-lio
 
 ---
 
-#teste
-<img src="https://github-profile-trophy.vercel.app/?username=EliatanGabriel&theme=tokyonight&no-frame=true"/>
-
-#teste2
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EliatanGabriel&theme=tokyo-night"/>
-
-#teste3
-<img src="https://streak-stats.demolab.com?user=EliatanGabriel&theme=tokyonight"/>
-
-
 # 🌎 Conecte-se comigo
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="https://www.instagram.com/_.eliatanzsx/" target="_blank">
