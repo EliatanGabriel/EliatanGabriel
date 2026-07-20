@@ -84,6 +84,16 @@ https://github.com/EliatanGabriel/Portif-lio
 
 ---
 
+#teste
+<img src="https://github-profile-trophy.vercel.app/?username=EliatanGabriel&theme=tokyonight&no-frame=true"/>
+
+#teste2
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EliatanGabriel&theme=tokyo-night"/>
+
+#teste3
+<img src="https://streak-stats.demolab.com?user=EliatanGabriel&theme=tokyonight"/>
+
+
 # 🌎 Conecte-se comigo
 
 <p align="center">
