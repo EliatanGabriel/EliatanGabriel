@@ -8,10 +8,10 @@
 
 # 🚀 Sobre mim
 
-🎓 Estudante de Ciência da Computação
-💼 Atualmente atuo como **Analista de QA**, realizando testes funcionais, validação de requisitos, identificação de bugs e garantia da qualidade de aplicações web.
-☕ Atualmente estou direcionando minha carreira para o **Desenvolvimento Backend com Java**, enquanto aprofundo conhecimentos em automação de testes.
-🎯 Meu objetivo é me tornar um desenvolvedor Backend especializado em Java, criando aplicações escaláveis, seguras e de alta qualidade.
+Estudante de Ciência da Computação
+Atualmente atuo como **Analista de QA**, realizando testes funcionais, validação de requisitos, identificação de bugs e garantia da qualidade de aplicações web.
+Atualmente estou direcionando minha carreira para o **Desenvolvimento Backend com Java**, enquanto aprofundo conhecimentos em automação de testes.
+Meu objetivo é me tornar um desenvolvedor Backend especializado em Java, criando aplicações escaláveis, seguras e de alta qualidade.
 
 ---
 
