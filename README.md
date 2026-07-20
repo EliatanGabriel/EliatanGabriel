@@ -61,7 +61,8 @@ Apaixonado por desenvolvimento de software, qualidade, automação de testes e c
 ### 🏢 AC Consultoria de RH
 Site institucional desenvolvido para uma empresa real, focado em apresentar a empresa e permitir o envio de currículos.
 
-[🔗 https://github.com/EliatanGabriel/AC-Consultoria-de-RH](https://ac-consutoria-de-rh.vercel.app/)
+GitHub: https://github.com/EliatanGabriel/AC-Consutoria-de-RH
+Site: https://ac-consutoria-de-rh.vercel.app/https://ac-consutoria-de-rh.vercel.app/
 
 ---
 
