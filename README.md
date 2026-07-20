@@ -90,11 +90,11 @@ https://github.com/EliatanGabriel/Portif-lio
 <p align="center">
 
 <a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://www.instagram.com/_.eliatanzsx/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </p>
