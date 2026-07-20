@@ -82,11 +82,7 @@ Meu portfólio profissional reunindo projetos, habilidades e trajetória na áre
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EliatanGabriel&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliatanGabriel&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliatanGabriel&theme=tokyo-night" />
 </p>
 
 ---
