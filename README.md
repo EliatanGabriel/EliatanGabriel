@@ -17,11 +17,9 @@ Meu objetivo é me tornar um desenvolvedor Backend especializado em Java, criand
 
 # 📚 Atualmente estudando
 
-- ☕ Java
-- 🌐 JavaScript (ES6+)
-- 🎭 Playwright
-- 🌱 Spring Boot
-- 🧪 Testes Automatizados
+- JavaScript (ES6+)
+- Cypress
+- Testes Automatizados
 - 🇺🇸 Inglês para Tecnologia
 
 ---
@@ -31,18 +29,18 @@ Meu objetivo é me tornar um desenvolvedor Backend especializado em Java, criand
 ## 💻 Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
 </p>
 
 ## ⚙️ Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,azure,playwright,trello,jira" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,azure,cypress,trello,jira" />
 </p>
 
 ## 🧪 QA & Produtividade
 
-- Playwright
+- Cypress
 - Jira
 - Trello
 - Excel
