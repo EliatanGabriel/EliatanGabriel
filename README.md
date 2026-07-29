@@ -1,7 +1,7 @@
 <h1 align="center"> Olá! Eu sou Eliatan Gabriel </h1>
 
 <h3 align="center">
-💻 Estudante de Ciência da Computação • QA Analyst • Java Backend Developer in Progress
+💻 Estudante de Ciência da Computação • QA Analyst <!--• Java Backend Developer in Progress -->
 </h3>
 
 ---
@@ -10,8 +10,8 @@
 
 Estudante de Ciência da Computação
 Atualmente atuo como **Analista de QA**, realizando testes funcionais, validação de requisitos, identificação de bugs e garantia da qualidade de aplicações web.
-Atualmente estou direcionando minha carreira para o **Desenvolvimento Backend com Java**, enquanto aprofundo conhecimentos em automação de testes.
-Meu objetivo é me tornar um desenvolvedor Backend especializado em Java, criando aplicações escaláveis, seguras e de alta qualidade.
+Atualmente estou <!-- direcionando minha carreira para o **Desenvolvimento Backend com Java**, enquanto --> aprofundo conhecimentos em automação de testes.
+Meu objetivo é <!-- me tornar um desenvolvedor Backend especializado em Java, --> criar aplicações escaláveis, seguras e de alta qualidade.
 
 ---
 
