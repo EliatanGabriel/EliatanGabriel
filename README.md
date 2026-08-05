@@ -50,24 +50,6 @@ Meu objetivo é <!-- me tornar um desenvolvedor Backend especializado em Java, -
 
 ---
 
-# 📂 Projetos
-
-### 🏢 AC Consultoria de RH
-Site institucional desenvolvido para uma empresa real, focado em apresentar a empresa e permitir o envio de currículos.
-
-GitHub: https://github.com/EliatanGabriel/AC-Consutoria-de-RH
-<br>
-Site: https://ac-consutoria-de-rh.vercel.app/https://ac-consutoria-de-rh.vercel.app/
-
----
-
-### 📋 TaskFlow
-Sistema de gerenciamento de tarefas desenvolvido para praticar desenvolvimento web, organização de projetos e boas práticas de programação.
-
-🔗 https://github.com/EliatanGabriel/TaskFlow
-
----
-
 ### 🌐 Portfólio
 Meu portfólio profissional reunindo projetos, habilidades e trajetória na área de tecnologia.
 
