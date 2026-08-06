@@ -33,7 +33,7 @@ Meu objetivo é desenvolver soluções seguras, confiáveis e de alta qualidade,
 </p>⚙️ Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,fedora,azure,cypress,trello,jira" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,cypress" />
 </p>🔐 QA & Cybersecurity
 
 - Testes Funcionais
