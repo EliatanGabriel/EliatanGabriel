@@ -1,80 +1,72 @@
-<h1 align="center"> Olá! Eu sou Eliatan Gabriel </h1>
+<h1 align="center">Olá! Eu sou Eliatan Gabriel </h1><h3 align="center">
+💻 Computer Science Student • QA Analyst • Cybersecurity Student
+</h3>---
 
-<h3 align="center">
-💻 Estudante de Ciência da Computação • QA Analyst <!--• Java Backend Developer in Progress -->
-</h3>
+🚀 Sobre mim
 
----
+Sou estudante de Ciência da Computação e atuo como estagiário na área de QA e TI, realizando testes de software, validação de requisitos, identificação de bugs e suporte técnico.
 
-# 🚀 Sobre mim
+Atualmente direciono minha carreira para Qualidade de Software (QA) e Cibersegurança, aprofundando meus conhecimentos em Linux, redes, testes automatizados e segurança da informação.
 
-Estudante de Ciência da Computação
-Atualmente atuo como **Analista de QA**, realizando testes funcionais, validação de requisitos, identificação de bugs e garantia da qualidade de aplicações web.
-Atualmente estou <!-- direcionando minha carreira para o **Desenvolvimento Backend com Java**, enquanto --> aprofundo conhecimentos em automação de testes.
-Meu objetivo é <!-- me tornar um desenvolvedor Backend especializado em Java, --> criar aplicações escaláveis, seguras e de alta qualidade.
+Meu objetivo é desenvolver soluções seguras, confiáveis e de alta qualidade, unindo boas práticas de testes e segurança.
 
 ---
 
-# 📚 Atualmente estudando
+📚 Atualmente estudando
 
-- JavaScript (ES6+)
+- Linux (Fedora & Kali)
+- Redes de Computadores
+- Cibersegurança
 - Cypress
 - Testes Automatizados
-- 🇺🇸 Inglês para Tecnologia
+- JavaScript (ES6+)
+- Inglês para Tecnologia
 
 ---
 
-# 🛠 Tech Stack
+🛠 Tech Stack
 
-## 💻 Linguagens
+💻 Linguagens
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
-</p>
-
-## ⚙️ Ferramentas
+</p>⚙️ Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,azure,cypress,trello,jira" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,cypress,trello,jira" />
+</p>🔐 QA & Cybersecurity
 
-## 🧪 QA & Produtividade
-
-- Cypress
-- Jira
-- Trello
-- Excel
 - Testes Funcionais
-- Validação de Requisitos
+- Testes Automatizados
 - Reporte de Bugs
+- Validação de Requisitos
+- Linux (Fedora & Kali)
+- Redes
+- Git & GitHub
+- OWASP Top 10 (em estudo)
+- Nmap (laboratórios)
+- Wireshark (laboratórios)
 
 ---
 
-### 🌐 Portfólio
-Meu portfólio profissional reunindo projetos, habilidades e trajetória na área de tecnologia.
+🌐 Portfólio
+
+Meu portfólio com projetos, estudos e experiências:
 
 https://github.com/EliatanGabriel/Portif-lio
 
 ---
 
-# 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliatanGabriel&theme=tokyo-night" />
-</p>
+</p>---
 
----
+🌎 Conecte-se comigo
 
-# 🌎 Conecte-se comigo
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
+<p align="center"><a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
+</a><a href="https://www.instagram.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-</p>
+</a></p>
