@@ -65,7 +65,7 @@ https://github.com/EliatanGabriel/Portif-lio
 
 🌎 Conecte-se comigo
 
-<p align="center"><a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
+<p align="center"><a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a><a href="https://www.instagram.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
