@@ -14,7 +14,7 @@ Meu objetivo é desenvolver soluções seguras, confiáveis e de alta qualidade,
 
 📚 Atualmente estudando
 
-- Linux (Fedora & Kali)
+- Linux (Debian)
 - Redes de Computadores
 - Cibersegurança
 - Cypress
@@ -43,9 +43,6 @@ Meu objetivo é desenvolver soluções seguras, confiáveis e de alta qualidade,
 - Linux (Fedora & Kali)
 - Redes
 - Git & GitHub
-- OWASP Top 10 (em estudo)
-- Nmap (laboratórios)
-- Wireshark (laboratórios)
 
 ---
 
