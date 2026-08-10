@@ -1,69 +1,144 @@
-<h1 align="center">Olá! Eu sou Eliatan Gabriel </h1><h3 align="center">
-💻 Computer Science Student • QA Analyst • Cybersecurity Student
-</h3>---
+<h1 align="center">Olá! Eu sou Eliatan Gabriel</h1>
 
-🚀 Sobre mim
+<h3 align="center">
+💻 Ciência da Computação • QA Analyst • Cybersecurity Student
+</h3>
 
-Sou estudante de Ciência da Computação e atuo como estagiário na área de QA e TI, realizando testes de software, validação de requisitos, identificação de bugs e suporte técnico.
-
-Atualmente direciono minha carreira para Qualidade de Software (QA) e Cibersegurança, aprofundando meus conhecimentos em Linux, redes, testes automatizados e segurança da informação.
-
-Meu objetivo é desenvolver soluções seguras, confiáveis e de alta qualidade, unindo boas práticas de testes e segurança.
-
----
-
-📚 Atualmente estudando
-
-- Linux (Debian)
-- Redes de Computadores
-- Cibersegurança
-- Cypress
-- Testes Automatizados
-- JavaScript (ES6+)
-- Inglês para Tecnologia
+<p align="center">
+  <a href="https://github.com/EliatanGabriel">
+    <img src="https://img.shields.io/github/followers/EliatanGabriel?label=Seguidores&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/EliatanGabriel?tab=repositories">
+    <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-🛠 Tech Stack
+## 🚀 Sobre mim
 
-💻 Linguagens
+Sou estudante de **Ciência da Computação** e atuo na área de **Quality Assurance (QA) e TI**, trabalhando com testes de software, validação de requisitos, identificação e documentação de bugs e suporte técnico.
+
+Atualmente, estou direcionando minha carreira para **Qualidade de Software e Cibersegurança**, buscando desenvolver uma visão cada vez mais completa sobre qualidade, confiabilidade e segurança de aplicações.
+
+Tenho interesse especialmente em **testes automatizados, Linux, redes, segurança da informação e desenvolvimento de software**.
+
+Meu objetivo é construir soluções **seguras, confiáveis e de alta qualidade**, combinando práticas de QA, automação e segurança.
+
+---
+
+## 📚 Atualmente estudando
+
+* 🌐 Redes de Computadores
+* 🔐 Cibersegurança
+* 🧪 Testes de Software
+* 🤖 Testes Automatizados
+* ⚡ Cypress
+* 🟨 JavaScript (ES6+)
+* 🐍 Python
+* 🇺🇸 Inglês para Tecnologia
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Linguagens
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
-</p>⚙️ Ferramentas
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+</p>
+
+### ⚙️ Ferramentas e Tecnologias
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,cypress" />
-</p>🔐 QA & Cybersecurity
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,cypress" />
+</p>
 
-- Testes Funcionais
-- Testes Automatizados
-- Reporte de Bugs
-- Validação de Requisitos
-- Linux (Fedora & Kali)
-- Redes
-- Git & GitHub
+### 🧪 Quality Assurance
+
+* Testes Funcionais
+* Testes de Regressão
+* Validação de Requisitos
+* Identificação e documentação de Bugs
+* Testes de API
+* Testes Automatizados
+* Cypress
+* Postman
+* Git & GitHub
+
+### 🔐 Cybersecurity
+
+* Linux
+* Redes de Computadores
+* Nmap
+<!--* Wireshark
+* OWASP ZAP
+* Burp Suite
+* SQLMap
+* Gobuster
+* FFUF
+* Reconhecimento e análise de superfícies de ataque -->
 
 ---
 
-🌐 Portfólio
+## 💼 Experiência
 
-Meu portfólio com projetos, estudos e experiências:
+### QA Analyst / Estagiário em TI
 
-https://github.com/EliatanGabriel/Portif-lio
+Atuação envolvendo:
+
+* Execução de testes funcionais em aplicações web
+* Validação de requisitos
+* Identificação, reprodução e documentação de bugs
+* Testes de novas funcionalidades
+* Validação de correções
+* Apoio ao desenvolvimento e controle de qualidade
+* Utilização de GitHub para acompanhamento do ciclo de desenvolvimento
 
 ---
 
-📈 GitHub Stats
+## 📂 Portfólio
+
+Confira meus projetos, estudos e experimentos:
+
+<p align="center">
+  <a href="https://github.com/EliatanGabriel/Portif-lio">
+    <img src="https://img.shields.io/badge/🌐%20Meu%20Portfólio-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliatanGabriel&theme=tokyo-night" />
-</p>---
+</p>
 
-🌎 Conecte-se comigo
+---
 
-<p align="center"><a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a><a href="https://www.instagram.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a></p>
+## 🎯 Objetivos
+
+* Aprofundar conhecimentos em **Quality Assurance**
+* Desenvolver experiência com **testes automatizados**
+* Evoluir em **Cibersegurança**
+* Aprimorar conhecimentos em **Linux e Redes**
+* Desenvolver projetos práticos de segurança
+* Obter certificações na área de tecnologia
+* Evoluir continuamente como profissional de tecnologia
+
+---
+
+## 🌎 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/eliatan-gabriel-84a034315/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>“Quality is not an act, it is a habit.”</i>
+</p>
