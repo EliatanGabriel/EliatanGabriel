@@ -81,22 +81,6 @@ Meu objetivo é construir soluções **seguras, confiáveis e de alta qualidade*
 
 ---
 
-## 💼 Experiência
-
-### QA Analyst / Estagiário em TI
-
-Atuação envolvendo:
-
-* Execução de testes funcionais em aplicações web
-* Validação de requisitos
-* Identificação, reprodução e documentação de bugs
-* Testes de novas funcionalidades
-* Validação de correções
-* Apoio ao desenvolvimento e controle de qualidade
-* Utilização de GitHub para acompanhamento do ciclo de desenvolvimento
-
----
-
 ## 📂 Portfólio
 
 Confira meus projetos, estudos e experimentos:
