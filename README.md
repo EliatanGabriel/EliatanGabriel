@@ -36,7 +36,6 @@ Meu objetivo é construir soluções **seguras, confiáveis e de alta qualidade*
 * ⚡ Cypress
 * 🟨 JavaScript (ES6+)
 * 🐍 Python
-* 🇺🇸 Inglês para Tecnologia
 
 ---
 
@@ -60,10 +59,7 @@ Meu objetivo é construir soluções **seguras, confiáveis e de alta qualidade*
 * Testes de Regressão
 * Validação de Requisitos
 * Identificação e documentação de Bugs
-* Testes de API
-* Testes Automatizados
 * Cypress
-* Postman
 * Git & GitHub
 
 ### 🔐 Cybersecurity
