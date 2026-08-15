@@ -71,13 +71,6 @@ Meu objetivo é construir soluções **seguras, confiáveis e de alta qualidade*
 * Linux
 * Redes de Computadores
 * Nmap
-<!--* Wireshark
-* OWASP ZAP
-* Burp Suite
-* SQLMap
-* Gobuster
-* FFUF
-* Reconhecimento e análise de superfícies de ataque -->
 
 ---
 
@@ -98,18 +91,6 @@ Confira meus projetos, estudos e experimentos:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EliatanGabriel&theme=tokyo-night" />
 </p>
-
----
-
-## 🎯 Objetivos
-
-* Aprofundar conhecimentos em **Quality Assurance**
-* Desenvolver experiência com **testes automatizados**
-* Evoluir em **Cibersegurança**
-* Aprimorar conhecimentos em **Linux e Redes**
-* Desenvolver projetos práticos de segurança
-* Obter certificações na área de tecnologia
-* Evoluir continuamente como profissional de tecnologia
 
 ---
 
