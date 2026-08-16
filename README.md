@@ -50,7 +50,7 @@ Meu objetivo é construir soluções **seguras, confiáveis e de alta qualidade*
 ### ⚙️ Ferramentas e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,cypress,obsidian" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,cypress,notion,obsidian" />
 </p>
 
 ### 🧪 Quality Assurance
