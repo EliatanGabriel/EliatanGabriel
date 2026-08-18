@@ -61,13 +61,7 @@ Meu objetivo é construir soluções **seguras, confiáveis e de alta qualidade*
 * Identificação e documentação de Bugs
 * Cypress
 * Git & GitHub
-
-### 🔐 Cybersecurity
-
-* Linux
-* Redes de Computadores
-* Nmap
-
+  
 ---
 
 ## 📂 Portfólio
