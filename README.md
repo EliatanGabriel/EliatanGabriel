@@ -30,7 +30,6 @@ Meu objetivo é construir soluções **seguras, confiáveis e de alta qualidade*
 ## 📚 Atualmente estudando
 
 * 🌐 Redes de Computadores
-* 🔐 Cibersegurança
 * 🧪 Testes de Software
 * 🤖 Testes Automatizados
 * ⚡ Cypress
