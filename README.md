@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Eliatan Gabriel</h1>
 
 <h3 align="center">
-💻 Ciência da Computação • QA Analyst • Cybersecurity Student
+💻 Ciência da Computação • QA Analyst
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 Sou estudante de **Ciência da Computação** e atuo na área de **Quality Assurance (QA) e TI**, trabalhando com testes de software, validação de requisitos, identificação e documentação de bugs e suporte técnico.
 
-Atualmente, estou direcionando minha carreira para **Qualidade de Software e Cibersegurança**, buscando desenvolver uma visão cada vez mais completa sobre qualidade, confiabilidade e segurança de aplicações.
+Atualmente, estou direcionando minha carreira para **Qualidade de Software**, buscando desenvolver uma visão cada vez mais completa sobre qualidade, confiabilidade e segurança de aplicações.
 
 Tenho interesse especialmente em **testes automatizados, Linux, redes, segurança da informação e desenvolvimento de software**.
 
