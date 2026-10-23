@@ -40,11 +40,11 @@ Meu objetivo é contribuir para a construção de sistemas seguros, confiáveis 
 💻 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,SQLite" />
 </p>⚙️ Ferramentas e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,cypress,notion,obsidian" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure,postman,notion,obsidian" />
 </p>🧪 Quality Assurance
 
 * Testes Funcionais
