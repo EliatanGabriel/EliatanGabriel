@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou Eliatan Gabriel</h1><h3 align="center">
-💻 Ciência da Computação • QA Analyst • Cybersecurity
+💻 Ciência da Computação • QA Analyst • Product Analyst
 </h3><p align="center">
   <a href="https://github.com/EliatanGabriel">
     <img src="https://img.shields.io/github/followers/EliatanGabriel?label=Seguidores&style=for-the-badge" />
@@ -7,7 +7,7 @@
   <a href="https://github.com/EliatanGabriel?tab=repositories">
     <img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-</p>---
+</p>
 
 🚀 Sobre mim
 
