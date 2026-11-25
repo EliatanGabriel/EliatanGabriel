@@ -26,9 +26,6 @@ Meu objetivo é contribuir para a construção de sistemas seguros, confiáveis 
 * 🌐 Redes de Computadores
 * 🧪 Testes de Software
 * 🤖 Testes Automatizados
-* 🔐 Cybersecurity
-* 🛡️ Segurança da Informação
-* ⚡ Cypress
 * 🟨 JavaScript (ES6+)
 * 🐍 Python
 * 🐧 Linux
@@ -55,14 +52,3 @@ Meu objetivo é contribuir para a construção de sistemas seguros, confiáveis 
 * Homologação de Funcionalidades
 * Cypress
 * Git & GitHub
-
-🔐 Cybersecurity
-
-* Identificação e análise de riscos
-* Identificação de vulnerabilidades
-* Boas práticas de Segurança da Informação
-* Segurança de aplicações
-* Análise de segurança de sistemas e processos
-* Redes e fundamentos de segurança
-* Linux
-* Monitoramento e acompanhamento de riscos
